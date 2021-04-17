@@ -1,6 +1,7 @@
 Revision history for Pod-Weaver
 
 {{$NEXT}}
+        - H1Nester now also captures =for and =begin tags under =head1
 
 4.016     2021-04-06 22:22:59-04:00 America/New_York (TRIAL RELEASE)
         - GenerateSection by David Miguel Susano Pinto has been bundled with
